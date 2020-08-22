@@ -16,7 +16,7 @@ dependencies:
     github: ysbaddaden/pool
     version: ~> 0.2.3
   kemal:
-    github: kemalcr/kemal
+    github: quangvokaligo/kemal
     branch: master
   kemal-session:
     github: kemalcr/kemal-session
